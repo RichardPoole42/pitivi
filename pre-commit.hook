@@ -49,8 +49,7 @@ def main():
            "  * on ubuntu, debian: $sudo apt-get install pep8 \n"\
            "  * on fedora: #yum install python-pep8 \n"\
            "  * on arch: #pacman -S pep8-python3 \n"\
-           "  * or add the official pep8 from http://www.python.org/dev/peps/pep-0008/"\
-           " in your $PATH"
+           "  * or download it from github: https://github.com/jcrocholl/pep8"\
 
     shutil.rmtree(tempdir)
     if output_message:
