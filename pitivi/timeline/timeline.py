@@ -63,7 +63,7 @@ GlobalSettings.addConfigOption('imageClipLength',
 PreferencesDialog.addNumericPreference('imageClipLength',
     section=_("Behavior"),
     label=_("Image clip duration"),
-    description=_("Default clip length (in miliseconds) of images when inserting on the timeline."),
+    description=_("Default clip length (in milliseconds) of images when inserting on the timeline."),
     lower=1)
 
 TARGET_TYPE_URI_LIST = 80
