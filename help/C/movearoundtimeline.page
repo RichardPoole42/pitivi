@@ -48,7 +48,6 @@
        <p>You can zoom in and out by:</p>
        <list>
            <item><p>Holding the <key>Ctrl</key> key while using the mousewheel over the timeline</p></item>
-           <item><p>Using the <guiseq><gui>View</gui><gui>Zoom In</gui></guiseq> and <guiseq><gui>View</gui><gui>Zoom Out</gui></guiseq> menu items</p></item>
            <item><p>Dragging the zoom slider on the left of the ruler</p></item>
            <item><p>Using keyboard shortcuts such as <keyseq><key>Ctrl</key><key>-</key></keyseq> to zoom out or <keyseq><key>Ctrl</key><key>=</key></keyseq> (<keyseq><key>Ctrl</key><key>+</key></keyseq> on the numeric keypad) to zoom in</p></item>
        </list>
